@@ -31,15 +31,18 @@ El audio se transcribe automáticamente y el texto se copia y pega en la aplicac
 Repite el proceso tantas veces como quieras.
 
 📦 Dependencias principales
-# pip install pyaudio keyboard pyperclip pyautogui python-dotenv groq
+pip install pyaudio keyboard pyperclip pyautogui python-dotenv groq
 pyaudio
 keyboard
 pyperclip
 pyautogui
 python-dotenv
 groq
+
 🔒 Seguridad
+
 La clave de API se almacena en .env y nunca se sube a GitHub.
 No compartas tu archivo .env ni tu clave de API.
+
 ✨ Créditos
-Desarrollado por Luis Alvarez.
+### Desarrollado por Luis Alvarez.
